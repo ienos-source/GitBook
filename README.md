@@ -1,22 +1,6 @@
-# 安装指南
+# 简介
 
-## 安装 Node.js
+介绍 gitbook 的使用教程
 
-## 安装 GitBook
 
-```
-npm install gitbook-cli -g
-```
-
-校验 gitbook 是否安装成功
-
-```
-gitbook -V
-```
-
-```
-gitbook init {directory}
-```
-
-遇到的问题 
-
+- [GitBook 在线编辑](https://app.gitbook.com/)
